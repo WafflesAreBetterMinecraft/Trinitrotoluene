@@ -1,0 +1,9 @@
+{
+  "block.minecraft.tnt": "Trinitrotoluene",
+  "entity.minecraft.tnt": "Primed Trinitrotoluene",
+  "entity.minecraft.tnt_minecart": "Minecart with Trinitrotoluene",
+  "gamerule.tntExplosionDropDecay": "In trinitrotoluene explosions, some blocks won't drop their loot",
+  "gamerule.tntExplosionDropDecay.description": "Some of the drops from blocks destroyed by explosions caused by trinitrotoluene are lost in the explosion.",
+  "item.minecraft.tnt_minecart": "Minecart with Trinitrotoluene",
+  "subtitles.entity.tnt.primed": "Trinitrotoluene fizzes"
+}
