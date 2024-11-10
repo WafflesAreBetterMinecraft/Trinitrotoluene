@@ -1,6 +1,10 @@
 {
     "pack": {
-        "pack_format": 18,
-        "description": "Why would you want this"
+        "pack_format": 34,
+        "supported_formats": {
+            "min_inclusive": 12, 
+            "max_inclusive": 44
+        },
+        "description": "Clarifies that the full name of TNT is Trinitrotoluene"
     }
 }
